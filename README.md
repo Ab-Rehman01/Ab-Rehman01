@@ -45,4 +45,20 @@ Git, GitHub, VS Code, Canva, Figma
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdul-rehman)  
 - 🐙 [GitHub](https://github.com/Ab-Rehman01)  
-- ✉️ Email: ab-rehman@live.com  
+- ✉️ Email: ab-rehman@live.com
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ab-Rehman01&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 GitHub Stats
+
+![Ab-Rehman01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ab-Rehman01&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ab-Rehman01&layout=compact&theme=onedark)
+
+
